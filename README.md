@@ -2,9 +2,9 @@
 
 ###Sample opening animation for android
 
-This app has created by [Sttar Hummatli](https://www.linkedin.com/in/hummatli) in test prosess.
+This application has created by [Sttar Hummatli](https://www.linkedin.com/in/hummatli) in test prosess.
 
-It contains opening animation. You can use it freely in your apps. 
+It contains opening animation tips. You can use it freely in your apps. 
 
 Application has build on IDE `Android Studio`
 
