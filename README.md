@@ -1,6 +1,6 @@
 # android-animation-sample 
 
-*Sample opening animation for android*
+##Sample opening animation for android
 
 This app has created by [Sttar Hummatli](https://www.linkedin.com/in/hummatli) in test prosess.
 
