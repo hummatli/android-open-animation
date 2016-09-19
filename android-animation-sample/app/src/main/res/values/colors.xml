@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="colorPrimary">#0782f4</color>
+    <color name="colorPrimaryDark">#0773d8</color>
+    <color name="colorAccent">#FFFFFF</color>
+    	
+	<color name="theme_background_color">#0782f4</color>
+    <color name="main_txt_color">#d6cf02</color>
+
+    <color name="btn_background_simple_color">#0e73ba</color>
+    <color name="btn_background_pressed_color">#1e88d3</color>
+    <color name="btn_text_pressed_color">#f6f7f8</color>
+    <color name="btn_text_simple_color">#f6f7f8</color>
+    <color name="btn_stroke_color">#f6f7f8</color>
+</resources>

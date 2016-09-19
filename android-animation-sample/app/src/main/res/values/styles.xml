@@ -1,0 +1,69 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    
+       <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->                     
+        <!-- colorPrimary is used for the default action bar background -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+ 
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+ 
+        <!-- colorAccent is used as the default value for colorControlActivated
+             which is used to tint widgets -->
+        <item name="colorAccent">@color/colorAccent</item>
+ 
+        <!-- You can also set colorControlNormal, colorControlActivated
+             colorControlHighlight & colorSwitchThumbNormal. -->
+             
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+               
+        <!-- item name="homeAsUpIndicator"> @drawable/ic_action_previous_item</item-->
+     	<item name="android:windowBackground">@color/theme_background_color</item>
+    </style>
+
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+       <item name="android:textAllCaps">false</item>
+    </style>
+    
+
+    <style name="AppThemeNoActionBarFullScreen" parent="AppTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+         <item name="android:windowNoTitle">true</item> <!-- Hides the Action Bar -->
+         <item name="android:windowFullscreen">true</item> <!-- Hides the status bar -->
+    </style>
+
+    <style name="MAHBtnBaseStyle" parent="Widget.AppCompat.Button">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingLeft">13dp</item>
+        <item name="android:paddingRight">13dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:minWidth">120dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAllCaps">true</item>
+
+    </style>
+
+    <style name="MAHBtnStyle" parent="MAHBtnBaseStyle">
+        <item name="android:background">@drawable/mah_btn2_background_selector</item>
+        <item name="android:textColor">@drawable/mah_btn2_text_selector</item>
+    </style>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android-animation-sample</string>
+    <string name="txt_about_title">About</string>
+    <string name="txt_about"> This is android sample for opening new fragment with animation.
+        \nYou can use code freely in your production.
+        \nIt contains intersting animation tips.
+        \nIt would be nice skeleton for your simple Android game.
+    </string>
+
+    <string name="txt_second_title">Second fragment</string>
+    <string name="txt_second_fragment"> You can add your content here.</string>
+
+    <string name="btn_1_txt">Open animation</string>
+    <string name="btn_2_txt">Open animation</string>
+    <string name="btn_back">Back</string>
+
+
+</resources>

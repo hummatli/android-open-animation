@@ -1,0 +1,116 @@
+<resources>
+
+    <dimen name="btn_answer_sw720dp_height">70dp</dimen>
+    <dimen name="btn_answer_sw720dp_index_text_size">23sp</dimen>
+    <dimen name="btn_answer_sw720dp_content_text_size">20sp</dimen>
+    <dimen name="btn_answer_sw720dp_padding_top_bottom">15dp</dimen>
+    <dimen name="btn_answer_sw720dp_padding_left_right">80dp</dimen>
+    <dimen name="btn_answer_sw720dp_margin_top_bottom">10dp</dimen>
+    <dimen name="btn_answer_sw720dp_margin_between_txt_view">10dp</dimen>
+    
+    <dimen name="general_lyt_sw720dp_padding_top_bottom">20dp</dimen>
+    <dimen name="general_lyt_sw720dp_padding_left_right">20dp</dimen>
+    
+    <dimen name="lyt_imgview_btn_sw720dp_width">100dp</dimen>
+    <dimen name="lyt_imgview_btn_sw720dp_size">60dp</dimen>
+    <dimen name="lyt_imgview_btn_between_margin_sw720dp_size">10dp</dimen>
+    <dimen name="tv_rating_sw720dp_text_size">18sp</dimen>
+    
+    <dimen name="circular_progress_bar_sw720dp_diameter">230dp</dimen>
+    <dimen name="circular_progress_bar_sw720dp_stroke_width">15dp</dimen>
+    <dimen name="circular_progress_bar_sw720dp_txt_size">50sp</dimen>
+    
+    <dimen name="tv_question_sw720dp_txt_size">35sp</dimen>
+    
+    
+    
+    <dimen name="btn_answer_sw600dp_height">55dp</dimen>
+    <dimen name="btn_answer_sw600dp_index_text_size">18sp</dimen>
+    <dimen name="btn_answer_sw600dp_content_text_size">18sp</dimen>
+    <dimen name="btn_answer_sw600dp_padding_top_bottom">15dp</dimen>
+    <dimen name="btn_answer_sw600dp_padding_left_right">80dp</dimen>
+    <dimen name="btn_answer_sw600dp_margin_top_bottom">10dp</dimen>
+    <dimen name="btn_answer_sw600dp_margin_between_txt_view">10dp</dimen>
+    
+    <dimen name="general_lyt_sw600dp_padding_top_bottom">15dp</dimen>
+    <dimen name="general_lyt_sw600dp_padding_left_right">15dp</dimen>
+    
+    <dimen name="lyt_imgview_btn_sw600dp_width">90dp</dimen>
+    <dimen name="lyt_imgview_btn_sw600dp_size">55dp</dimen>
+    <dimen name="lyt_imgview_btn_between_margin_sw600dp_size">7dp</dimen>
+    <dimen name="tv_rating_sw600dp_text_size">18sp</dimen>
+    
+    <dimen name="circular_progress_bar_sw600dp_diameter">200dp</dimen>
+    <dimen name="circular_progress_bar_sw600dp_stroke_width">12dp</dimen>
+    <dimen name="circular_progress_bar_sw600dp_txt_size">40sp</dimen>
+    
+    <dimen name="tv_question_sw600dp_txt_size">35sp</dimen>
+    
+        
+    <dimen name="btn_answer_sw480dp_height">45dp</dimen>
+    <dimen name="btn_answer_sw480dp_index_text_size">15sp</dimen>
+    <dimen name="btn_answer_sw480dp_content_text_size">14sp</dimen>
+    <dimen name="btn_answer_sw480dp_padding_top_bottom">10dp</dimen>
+    <dimen name="btn_answer_sw480dp_padding_left_right">60dp</dimen>
+    <dimen name="btn_answer_sw480dp_margin_top_bottom">7dp</dimen>
+    <dimen name="btn_answer_sw480dp_margin_between_txt_view">7dp</dimen>
+    
+    <dimen name="general_lyt_sw480dp_padding_top_bottom">8dp</dimen>
+    <dimen name="general_lyt_sw480dp_padding_left_right">8dp</dimen>
+    
+    <dimen name="lyt_imgview_btn_sw480dp_width">70dp</dimen>
+    <dimen name="lyt_imgview_btn_sw480dp_size">45dp</dimen>
+    <dimen name="lyt_imgview_btn_between_margin_sw480dp_size">5dp</dimen>
+    <dimen name="tv_rating_sw480dp_text_size">15sp</dimen>
+    
+    <dimen name="circular_progress_bar_sw480dp_diameter">140dp</dimen>
+    <dimen name="circular_progress_bar_sw480dp_stroke_width">10dp</dimen>
+    <dimen name="circular_progress_bar_sw480dp_txt_size">25sp</dimen>
+    
+    <dimen name="tv_question_sw480dp_txt_size">25sp</dimen>
+    
+    <dimen name="btn_answer_sw320dp_height">35dp</dimen>
+    <dimen name="btn_answer_sw320dp_index_text_size">14sp</dimen>
+    <dimen name="btn_answer_sw320dp_content_text_size">14sp</dimen>
+    <dimen name="btn_answer_sw320dp_padding_top_bottom">5dp</dimen>
+    <dimen name="btn_answer_sw320dp_padding_left_right">50dp</dimen>
+    <dimen name="btn_answer_sw320dp_margin_top_bottom">4dp</dimen>
+    <dimen name="btn_answer_sw320dp_margin_between_txt_view">4dp</dimen>
+    
+    <dimen name="general_lyt_sw320dp_padding_top_bottom">5dp</dimen>
+    <dimen name="general_lyt_sw320dp_padding_left_right">5dp</dimen>
+    
+    <dimen name="lyt_imgview_btn_sw320dp_width">50dp</dimen>
+    <dimen name="lyt_imgview_btn_sw320dp_size">35dp</dimen>
+    <dimen name="lyt_imgview_btn_between_margin_sw320dp_size">4dp</dimen>
+    <dimen name="tv_rating_sw320dp_text_size">13sp</dimen>
+    
+    <dimen name="circular_progress_bar_sw320dp_diameter">100dp</dimen>
+    <dimen name="circular_progress_bar_sw320dp_stroke_width">8dp</dimen>
+    <dimen name="circular_progress_bar_sw320dp_txt_size">20sp</dimen>
+    
+    <dimen name="tv_question_sw320dp_txt_size">20sp</dimen>
+    
+    <dimen name="btn_answer_sw_small_dp_height">25dp</dimen>
+    <dimen name="btn_answer_sw_small_dp_index_text_size">9sp</dimen>
+    <dimen name="btn_answer_sw_small_dp_content_text_size">9sp</dimen>
+    <dimen name="btn_answer_sw_small_dp_padding_top_bottom">3dp</dimen>
+    <dimen name="btn_answer_sw_small_dp_padding_left_right">40dp</dimen>
+    <dimen name="btn_answer_sw_small_dp_margin_top_bottom">3dp</dimen>
+    <dimen name="btn_answer_sw_small_dp_margin_between_txt_view">3dp</dimen>
+    
+    <dimen name="general_lyt_sw_small_dp_padding_top_bottom">3dp</dimen>
+    <dimen name="general_lyt_sw_small_dp_padding_left_right">3dp</dimen>
+    
+    <dimen name="lyt_imgview_btn_sw_small_dp_width">40dp</dimen>
+    <dimen name="lyt_imgview_btn_sw_small_dp_size">25dp</dimen>
+    <dimen name="lyt_imgview_btn_between_margin_sw_small_dp_size">3dp</dimen>
+    <dimen name="tv_rating_sw_small_dp_text_size">10sp</dimen>
+    
+    <dimen name="circular_progress_bar_sw_small_dp_diameter">80dp</dimen>
+    <dimen name="circular_progress_bar_sw_small_dp_stroke_width">6dp</dimen>
+    <dimen name="circular_progress_bar_sw_small_dp_txt_size">15sp</dimen>
+    
+    <dimen name="tv_question_sw_small_dp_txt_size">17sp</dimen>
+    
+</resources>
