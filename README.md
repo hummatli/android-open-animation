@@ -8,12 +8,12 @@ It contains opening animation tips. You can use it freely in your apps.
 
 Application has build on IDE `Android Studio`
 
+
+If you have any question about application please let me know. Write to settarxan@gmail.com. I will help.
+
 <!--#Images-->
 <!--<img src="https://raw.githubusercontent.com/hummatli/MAHAds/master/imgs/exit_dlg.png" width="200px"/>-->
 <!--<img src="https://raw.githubusercontent.com/hummatli/MAHAds/master/imgs/programs_dlg.png" width="200px"/>-->
-
-#End
-If you have any question about application please let me know. Write to settarxan@gmail.com. I will help.
 
 #Contribution
 * Fork it
