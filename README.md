@@ -10,14 +10,13 @@ Application has build on IDE `Android Studio`
 
 
 #Images
-<div class="img-with-text">
-    <img src="https://raw.githubusercontent.com/hummatli/android-animation-sample/master/screenshots/start_animation.gif" width="200px" alt="Start Animation"/>
-    <p>Start Animation</p>
-</div>     
-<div class="img-with-text">
-    <img src="https://raw.githubusercontent.com/hummatli/android-animation-sample/master/screenshots/open_animation.gif" width="200px" alt="Open Animation"/>
-    <p>Open Animation</p>
-</div>
+
+<img src="https://raw.githubusercontent.com/hummatli/android-animation-sample/master/screenshots/start_animation.gif" width="200px" alt="Start Animation"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/hummatli/android-animation-sample/master/screenshots/open_animation.gif" width="200px" alt="Open Animation"/>
+
+
+
+
 
 
 #Contribution
