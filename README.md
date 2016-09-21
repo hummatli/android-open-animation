@@ -9,11 +9,16 @@ It contains opening animation tips. You can use it freely in your apps.
 Application has build on IDE `Android Studio`
 
 
-If you have any question about application please let me know. Write to settarxan@gmail.com. I will help.
+#Images
+<div class="img-with-text">
+    <img src="https://raw.githubusercontent.com/hummatli/android-animation-sample/master/screenshots/start_animation.gif" width="200px" alt="Start Animation"/>
+    <p>Start Animation</p>
+</div>     
+<div class="img-with-text">
+    <img src="https://raw.githubusercontent.com/hummatli/android-animation-sample/master/screenshots/open_animation.gif" width="200px" alt="Open Animation"/>
+    <p>Open Animation</p>
+</div>
 
-<!--#Images-->
-<!--<img src="https://raw.githubusercontent.com/hummatli/MAHAds/master/imgs/exit_dlg.png" width="200px"/>-->
-<!--<img src="https://raw.githubusercontent.com/hummatli/MAHAds/master/imgs/programs_dlg.png" width="200px"/>-->
 
 #Contribution
 * Fork it
@@ -22,6 +27,9 @@ If you have any question about application please let me know. Write to settarxa
 * Push to the branch (git push origin my-new-feature)
 * Create new Pull Request
 * Star it
+
+If you have any question about application please let me know. Write to settarxan@gmail.com. I will help.
+
 
 #Developed By
 Sattar Hummatli - settarxan@gmail.com
