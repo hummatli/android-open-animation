@@ -9,7 +9,7 @@
     <color name="main_txt_color">#d6cf02</color>
 
     <color name="btn_background_simple_color">#0e73ba</color>
-    <color name="btn_background_pressed_color">#1e88d3</color>
+    <color name="btn_background_pressed_color">#4cb0f6</color>
     <color name="btn_text_pressed_color">#d6cf02</color>
     <color name="btn_text_simple_color">#f6f7f8</color>
     <color name="btn_stroke_color">#f6f7f8</color>
