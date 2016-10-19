@@ -1,4 +1,4 @@
-# android-animation-sample 
+# android-open-animation 
 
 ###Sample opening animation for android
 
