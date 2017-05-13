@@ -7,11 +7,11 @@ It contains opening animation tips. You can use it freely in your apps.
 
 Application has build on IDE `Android Studio`
 
-## Images
+### Images
 <img src="https://raw.githubusercontent.com/hummatli/android-animation-sample/master/screenshots/start_animation.gif" width="200px" alt="Start Animation"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/hummatli/android-animation-sample/master/screenshots/open_animation.gif" width="200px" alt="Open Animation"/>
 
-## Contribution
+### Contribution
 * Fork it
 * Create your feature branch (git checkout -b my-new-feature)
 * Commit your changes (git commit -am 'Added some feature')
@@ -21,11 +21,11 @@ Application has build on IDE `Android Studio`
 
 If you have any question about application please let me know. Write to settarxan@gmail.com. I will help.
 
-## Developed By
+### Developed By
 Sattar Hummatli - settarxan@gmail.com
 
 
-## License
+### License
 MIT License
 
 Copyright (c) 2015  [Sattar Hummatli](https://www.linkedin.com/in/hummatli)
