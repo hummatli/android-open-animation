@@ -28,7 +28,7 @@ Sattar Hummatli - settarxan@gmail.com
 ### License
 MIT License
 
-Copyright (c) 2015  [Sattar Hummatli](https://www.linkedin.com/in/hummatli)
+Copyright (c) 2017  [Sattar Hummatli](https://www.linkedin.com/in/hummatli)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
